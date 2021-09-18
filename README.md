@@ -1,2 +1,2 @@
-# Destroy_or_Defend
+# Destroy or Defend
 Java game project for university.
